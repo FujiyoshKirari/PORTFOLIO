@@ -37,4 +37,4 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Sumo/
   敵の挙動が体力に応じて変化するようにしました。
  ### 操作方法
   WASD 移動<br>
-  Space or Z　長押しで射撃
+  Space or Z　長押しで射撃<br><br>
