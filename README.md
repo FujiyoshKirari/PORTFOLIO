@@ -29,7 +29,7 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Sumo/
  カスタマイズ画面ではスライダーで力士をカスタマイズ<br>
  バトル中は土俵をクリックして敵を押し出せ!!
 
- ---Shooting---
+ ---Shooting---<br>
  https://fujiyoshkirari.github.io/PORTFOLIO/Shooting/
  ### 制作時間
   7時間
