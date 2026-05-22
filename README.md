@@ -28,3 +28,13 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Sumo/
 ### 操作方法
  カスタマイズ画面ではスライダーで力士をカスタマイズ<br>
  バトル中は土俵をクリックして敵を押し出せ!!
+
+ ---Shooting---<br>
+ https://fujiyoshkirari.github.io/PORTFOLIO/Shooting/
+ ### 制作時間
+  7時間
+ ### こだわり
+  敵の挙動が体力に応じて変化するようにしました。
+ ### 操作方法
+  WASD 移動<br>
+  Space or Z　長押しで射撃
