@@ -30,7 +30,7 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Sumo/
  バトル中は土俵をクリックして敵を押し出せ!!
 
  ---Shooting---<br>
- https://fujiyoshkirari.github.io/PORTFOLIO/Shooting/
+https://fujiyoshkirari.github.io/PORTFOLIO/ShootingGame/
  ### 制作時間
   7時間
  ### こだわり
