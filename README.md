@@ -31,14 +31,14 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Sumo/
 
 ## ---Shooting---<br>
 https://fujiyoshkirari.github.io/PORTFOLIO/ShootingGame/
- ### 制作時間
+### 制作時間
   7時間
- ### こだわり
-  敵の挙動が体力に応じて変化するようにしました。
-  弾は敵もプレイヤーも共通のオブジェクトプールを使用するようにしました。
- ### 操作方法
-  WASD 移動<br>
-  Space or Z　長押しで射撃<br><br>
+### こだわり
+ 敵の挙動が体力に応じて変化するようにしました。
+ 弾は敵もプレイヤーも共通のオブジェクトプールを使用するようにしました。
+### 操作方法
+ WASD 移動<br>
+ Space or Z　長押しで射撃<br><br>
 
 ## ---Clicker---<br>
 https://fujiyoshkirari.github.io/PORTFOLIO/Clicker/
