@@ -49,3 +49,14 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Clicker/
  クリックや自動生産が行われた際に入手したポイントをわかりやすくしました。
 ### 操作方法
  クリック<br><br>
+
+## ---Escape---<br>
+https://fujiyoshkirari.github.io/PORTFOLIO/Escape/
+### 制作時間
+ 8時間
+### こだわり
+ スイッチや金庫などのギミックをすべて同じクラスから派生させることにより、
+ 同じ操作ですべてのギミックを起動できるようにしました。
+### 操作方法
+ マウスで視点操作
+ 左クリックでギミックの起動
