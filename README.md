@@ -60,3 +60,25 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Escape/
 ### 操作方法
  マウスで視点操作
  左クリックでギミックの起動
+<br><br>
+
+## ---CatchBall---<br>
+https://fujiyoshkirari.github.io/PORTFOLIO/CatchBall/
+### 制作時間
+ 10時間
+### こだわり
+ ボールの軌道を計算で求めることによって、キャッチ場所の予測を実現しました。
+### 操作方法
+ タイミングよくボールをクリック
+<br><br>
+
+## ---Rhythm---<br>
+https://fujiyoshkirari.github.io/PORTFOLIO/Rhythm/
+### 制作時間
+ 10時間
+### こだわり
+ deltaTimeの加算ではなく、dspTimeを使用してノーツのタイミングを調整し、
+ 後半にノーツがずれてしまう可能性を対策しました。
+### 操作方法
+ タイトル、リザルト -> Spaceキーで次のシーンへ移動
+ メインゲーム -> D F J K キーで各レーンをタップ
