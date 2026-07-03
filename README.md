@@ -80,5 +80,6 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Rhythm/
  deltaTimeの加算ではなく、dspTimeを使用してノーツのタイミングを調整し、
  後半にノーツがずれてしまう可能性を対策しました。
 ### 操作方法
- タイトル、リザルト -> Spaceキーで次のシーンへ移動
+ タイトル、リザルト -> Spaceキーで次のシーンへ移動<br>
  メインゲーム -> D F J K キーで各レーンをタップ
+<br><br>
