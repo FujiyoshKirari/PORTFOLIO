@@ -82,4 +82,4 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Rhythm/
 ### 操作方法
  タイトル、リザルト -> Spaceキーで次のシーンへ移動<br>
  メインゲーム -> D F J K キーで各レーンをタップ
-<br><br>
+<br> <br>
