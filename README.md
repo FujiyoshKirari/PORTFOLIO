@@ -83,3 +83,26 @@ https://fujiyoshkirari.github.io/PORTFOLIO/Rhythm/
  タイトル、リザルト -> Spaceキーで次のシーンへ移動<br>
  メインゲーム -> D F J K キーで各レーンをタップ
 <br> <br>
+
+## ---TankShooting---
+https://fujiyoshkirari.github.io/PORTFOLIO/TankShooting/
+### 制作時間
+ 9時間
+### こだわり
+ 戦車の動きとコントローラーの入力を分離することで、AIでも戦車の動きを使用できるように設計しました。
+### 操作方法
+ WASD 移動
+ マウス カメラ・砲身の回転
+ Space 弾の発射
+ <br><br>
+
+## ---PhysicsPuzzle---
+https://fujiyoshkirari.github.io/PORTFOLIO/PhysicsPuzzle/
+### 制作時間
+ 9時間
+### こだわり
+ カメラのアニメーションを追加して、ユーザーに狙う対象をわかりやすくしました。
+ R3を使用して変数の監視を行うことで、引っ張り中や、移動中などの各フェーズの管理を実装しました。
+### 操作方法
+ 左クリック長押しで引っ張って離して発射(引っ張りが小さければキャンセル)
+<br><br>
